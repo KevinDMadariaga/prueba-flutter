@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "187911131072",
+    "firebase_url": "https://apk-flutter-400fb-default-rtdb.firebaseio.com",
+    "project_id": "apk-flutter-400fb",
+    "storage_bucket": "apk-flutter-400fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187911131072:android:aa153f6c21851241d20225",
+        "android_client_info": {
+          "package_name": "com.example.app_taxi_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbMjobMxm-ggn6kGInLPCsyJEjjYWMPac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187911131072:android:7690e3b57126cd01d20225",
+        "android_client_info": {
+          "package_name": "com.example.flutter_aplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbMjobMxm-ggn6kGInLPCsyJEjjYWMPac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
